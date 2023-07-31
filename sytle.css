@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bgimg1 {
+    background-color: #1C2833;
+    background-size: cover;
+
+}
+
+.bgimg2 {
+    background-image: url("https://res.cloudinary.com/ddjeffifs/image/upload/v1690807770/code_alocu9.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.head1 {
+    color: #40eb34;
+    font-family: Arial Black;
+    font-size: 500%;
+    font-weight: bold;
+    padding-left: 50px;
+    text-decoration: underline;
+    transition: all 0.1s ease;
+}
+
+
+
+.head2 {
+    color: #ff3333;
+    font-family: cursive;
+    font-size: 150%;
+    font-weight: bold;
+    padding-left: 50px;
+    transition: all 0.1s ease;
+}
+
+.head3 {
+    color: #1ac6ff;
+    font-size: 400%;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding-left: 50px;
+    transition: all 0.1s ease;
+}
+
+.head3:hover {
+    font-size: 650%;
+    transform: translatex(20px);
+}
+
+.bio-card {
+    background-color: black;
+    margin: 25px;
+    border-radius: 20px;
+}
+
+.bio-img {
+    margin: 40px;
+    height: 70vh;
+    width: 25vw;
+    border-radius: 10px;
+}
+
+.bio-para {
+    color: white;
+    font-weight: 500;
+    font-family: Bree;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    font-size: 180%;
+}
+
+.navbar-name {
+    color: yellow;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: "Times New Roman";
+    transition: all 0.1s ease;
+}
+
+.navbar-name:hover {
+    font-size: 38px;
+}
+
+.navbar-name2 {
+    color: blue;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: "Times New Roman";
+    transition: all 0.1s ease;
+}
+
+.navbar-name2:hover {
+    font-size: 40px;
+}
+
+
+
+.skill-card {
+    background-color: black;
+    padding-top: 4%;
+    padding-bottom: 2%;
+    margin-top: 30px;
+    border-radius: 18px;
+    transition: all 0.1s ease;
+}
+
+.skill-card:hover {
+    transform: translatey(-20px);
+}
+
+.skill-para {
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    transition: all 0.1s ease;
+}
+
+.skill-para:hover {
+    font-size: 28px;
+    color: #1ac6ff;
+}
+
+.skill-img {
+    background-size: cover;
+    height: 60px;
+    text-align: center;
+}
+
+.footer-bg1 {
+    background-color: black;
+}
+
+.footer-para {
+    color: white;
+}
+
+.footer-head {
+    color: white;
+}
+
+.icon-bg {
+    background-color: #1C2833;
+    border-radius: 30px;
+    padding: 13px;
+    margin-left: 10px;
+}
